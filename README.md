@@ -15,7 +15,6 @@ Hello, I am Mayur, sophomore at VIT Vellore. I am pursuing my B'tech in Computer
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 **Languages**
-<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
