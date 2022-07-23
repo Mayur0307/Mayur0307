@@ -21,10 +21,6 @@ Hello, I am Mayur, sophomore at VIT Vellore. I am pursuing my B'tech in Computer
  
 </div>
 
- ### ⚙️ &nbsp;GitHub Analytics
- Profile stats              |  Language Contribution
-:-------------------------:|:-------------------------:
-![Mayur Gupta :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Mayur0307&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Mayur Gupta :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur0307&layout=compact&theme=react&hide_border=true)
 
 ## 🔗 Links
 <div align="center">
