@@ -1,6 +1,6 @@
 
 # Hi, I'm Mayur! 👋
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mayur0307.Mayur0307)
 
 ## 🚀 About Me
 Hello, I am Mayur, sophomore at VIT Vellore. I am pursuing my B'tech in Computer Science and Engineering and I am Interested in Project Management and Frontend Development.
